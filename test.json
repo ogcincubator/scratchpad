@@ -1,5 +1,5 @@
-{
-  "@context": "https://icsm-au.github.io/3d-csdm-profiles/build/annotated/profiles/nz/context.jsonld" ,
+{  "@context": "https://icsm-au.github.io/3d-csdm-schema/build/annotated/csdm/features/CSD/context.jsonld",
+  "x-context": "https://icsm-au.github.io/3d-csdm-profiles/build/annotated/profiles/nz/context.jsonld" ,
   
     "$schema": "schema.json",
     "type": "FeatureCollection",
